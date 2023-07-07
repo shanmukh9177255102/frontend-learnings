@@ -118,7 +118,7 @@ keyup, keydown events
 1. how to Load js file, style sheet into browser, when HTML file is loaded & assign some functions to DOM elements events, styles.
 
 
---------------**PHASE-2 Covering Browser**-------------------------
+--------------**PHASE-2 Covering Browser**-------------------------   
 **Storages**   
 Localstorage   
 sessionstorage   
