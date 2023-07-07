@@ -119,22 +119,22 @@ keyup, keydown events
 
 
 --------------**PHASE-2 Covering Browser**-------------------------
-**Storages**  
-Localstorage  
-sessionstorage  
-cookies  
+**Storages**   
+Localstorage   
+sessionstorage   
+cookies   
 
 **Fetching API: fetch, axios: GET,POST,PUT,DEL**  
-promise
-callbacks
-async...await
-fetch api
-axios library
-HTTP status codes
+promise  
+callbacks  
+async...await  
+fetch api  
+axios library  
+HTTP status codes  
 
-**CSS in depth**
-display
-common styles
+**CSS in depth**  
+display  
+common styles  
 
 **Closures in JS**
 
@@ -143,12 +143,12 @@ common styles
 
 ----------**PHASE-3: Advanced**-----------------
 
-Eventpropogation
-preventdefault
-EventBubbling
-EventThrotling
-EventDelegation
-debouncing
-how to stop eventPropogation, default behaviour ?.
+Eventpropogation  
+preventdefault  
+EventBubbling  
+EventThrotling  
+EventDelegation  
+debouncing  
+how to stop eventPropogation, default behaviour ?.  
 
 
